@@ -1,4 +1,5 @@
 TCHAD-SEARCH-MIGRANTS
+<img width="1248" height="832" alt="OIG3 (1)" src="https://github.com/user-attachments/assets/189112c6-b054-4c9b-a9dd-d514e28e6594" />
 
 **Guide ultime des opportunités d'études, de stages, de bourses et d'emplois à l'étranger pour les jeunes tchadiens.**
 
