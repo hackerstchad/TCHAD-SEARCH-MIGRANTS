@@ -872,7 +872,7 @@ Nous encourageons les tchadiens de la diaspora à devenir mentors et à guider l
 
 ---
 
-TEL:=23565628035
+TEL:+23565628035
 
 Ce document est fourni à titre informatif et éducatif. Les liens et opportunités peuvent évoluer. Vérifiez toujours les informations sur les sites officiels avant de postuler. Méfiez-vous des arnaques et des intermédiaires qui demandent de l'argent pour obtenir une bourse.
 
