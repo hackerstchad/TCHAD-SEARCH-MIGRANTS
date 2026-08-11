@@ -1,4 +1,4 @@
-# 🇹🇩 TCHAD-SEARCH-MIGRANTS
+TCHAD-SEARCH-MIGRANTS
 
 **Guide ultime des opportunités d'études, de stages, de bourses et d'emplois à l'étranger pour les jeunes tchadiens.**
 
