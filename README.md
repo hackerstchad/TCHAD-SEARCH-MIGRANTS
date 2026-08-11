@@ -8,7 +8,7 @@ TCHAD-SEARCH-MIGRANTS
 Ce document regroupe **plus de 1000 opportunités** : bourses, programmes d'échange, offres d'emploi internationales, visas vacances-travail, concours, plateformes de recrutement et ressources pratiques. Chaque ressource est accompagnée de son lien et d'une description.
 
 ---
-
+<img width="686" height="386" alt="hq720" src="https://github.com/user-attachments/assets/bc462dea-1499-4734-9c58-263088e7dcac" />
 ## 📚 Sommaire
 
 1. [Bourses et programmes d'études par pays](#-bourses-et-programmes-détudes-par-pays)
