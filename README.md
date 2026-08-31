@@ -11,6 +11,7 @@ Ce document regroupe **plus de 1000 opportunités** : bourses, programmes d'éch
 
 ---
 
+
 <img width="1248" height="832" alt="OIG3 k4ZjMSLp1674id0lU" src="https://github.com/user-attachments/assets/a8a43f7a-cc6b-4827-9d68-d9a5fe2db433" />
 
 
