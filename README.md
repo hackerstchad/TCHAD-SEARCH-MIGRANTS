@@ -1,6 +1,6 @@
-TCHAD-SEARCH-MIGRANTS
+<img width="1248" height="832" alt="OIG3 k4ZjMSLp1674id0lU" src="https://github.com/user-attachments/assets/9fec4a44-e9c5-4146-be68-e1ef9f156ade" />TCHAD-SEARCH-MIGRANTS
 
-<img width="1248" height="832" alt="OIG4 (10)" src="https://github.com/user-attachments/assets/9fdc4a3e-b233-4202-8315-acbfd866aa8e" />
+<img width="1248" height="832" alt="OIG4 (11)" src="https://github.com/user-attachments/assets/140b1a54-be85-4f04-bd74-bc9589bcf90e" />
 
 
 **Guide ultime des opportunités d'études, de stages, de bourses et d'emplois à l'étranger pour les jeunes tchadiens.**
@@ -10,6 +10,10 @@ TCHAD-SEARCH-MIGRANTS
 Ce document regroupe **plus de 1000 opportunités** : bourses, programmes d'échange, offres d'emploi internationales, visas vacances-travail, concours, plateformes de recrutement et ressources pratiques. Chaque ressource est accompagnée de son lien et d'une description.
 
 ---
+
+<img width="1248" height="832" alt="OIG3 k4ZjMSLp1674id0lU" src="https://github.com/user-attachments/assets/a8a43f7a-cc6b-4827-9d68-d9a5fe2db433" />
+
+
 ## 📚 Sommaire
 
 1. [Bourses et programmes d'études par pays](#-bourses-et-programmes-détudes-par-pays)
