@@ -151,7 +151,8 @@ Ce document regroupe **plus de 1000 opportunités** : bourses, programmes d'éch
 | 99 | Bourse Arizona State University | https://www.asu.edu/ | Bourses pour étudiants étrangers |
 | 100 | Bourse University of Texas at Austin | https://www.utexas.edu/ | Bourses internationales |
 
-### 🇩🇪 Allemagne
+### Allemagne
+<img width="1536" height="864" alt="1536x864_cmsv2_cb0feef8-9a1d-5e77-931f-472ec250511f-8464666" src="https://github.com/user-attachments/assets/ea34ab98-d659-482e-b548-57fde2683737" />
 
 | # | Opportunité | Lien | Description |
 |---|-------------|------|-------------|
@@ -176,7 +177,9 @@ Ce document regroupe **plus de 1000 opportunités** : bourses, programmes d'éch
 | 119 | Bourse University of Hamburg | https://www.uni-hamburg.de/ | Bourses pour étudiants étrangers |
 | 120 | Bourse University of Freiburg | https://www.uni-freiburg.de/ | Bourses internationales |
 
-### 🇬🇧 Royaume-Uni
+### Royaume-Uni
+<img width="770" height="400" alt="university-fees-in-uk-770x400" src="https://github.com/user-attachments/assets/7b3b73b4-9896-401f-89c8-9fe22d68d387" />
+
 
 | # | Opportunité | Lien | Description |
 |---|-------------|------|-------------|
@@ -216,7 +219,8 @@ Ce document regroupe **plus de 1000 opportunités** : bourses, programmes d'éch
 | 149 | Bourse ICHEC Brussels | https://www.ichec.be/ | Bourses internationales |
 | 150 | Bourse Solvay Brussels School | https://www.solvay.edu/ | Bourses d'excellence |
 
-### 🇨🇭 Suisse
+### Suisse
+<img width="770" height="540" alt="14-juin-suisses-prononceront-sur-votation-10-millions-suisse" src="https://github.com/user-attachments/assets/26e179fd-c452-4f31-ba4c-d59e06678f0c" />
 
 | # | Opportunité | Lien | Description |
 |---|-------------|------|-------------|
@@ -231,7 +235,8 @@ Ce document regroupe **plus de 1000 opportunités** : bourses, programmes d'éch
 | 159 | Bourse Università della Svizzera italiana | https://www.usi.ch/ | Bourses pour étudiants étrangers |
 | 160 | Bourse IMD Lausanne | https://www.imd.org/ | Bourses MBA et leadership |
 
-### 🇳🇱 Pays-Bas
+### Pays-Bas
+<img width="739" height="415" alt="images" src="https://github.com/user-attachments/assets/4778c04c-b267-41e9-9562-1c69f923ea21" />
 
 | # | Opportunité | Lien | Description |
 |---|-------------|------|-------------|
@@ -246,7 +251,8 @@ Ce document regroupe **plus de 1000 opportunités** : bourses, programmes d'éch
 | 169 | Bourse University of Groningen | https://www.rug.nl/ | Bourses pour étudiants étrangers |
 | 170 | Bourse Eindhoven University of Technology | https://www.tue.nl/ | Bourses internationales |
 
-### 🇸🇪 Suède
+### Suède
+<img width="738" height="411" alt="images (1)" src="https://github.com/user-attachments/assets/ef7ca6bd-dbe9-43f0-9982-bd06657c0655" />
 
 | # | Opportunité | Lien | Description |
 |---|-------------|------|-------------|
@@ -261,7 +267,8 @@ Ce document regroupe **plus de 1000 opportunités** : bourses, programmes d'éch
 | 179 | Bourse Umeå University | https://www.umu.se/ | Bourses pour étudiants étrangers |
 | 180 | Bourse Linköping University | https://www.liu.se/ | Bourses internationales |
 
-### 🇳🇴 Norvège
+### Norvège
+<img width="1200" height="680" alt="1200x680" src="https://github.com/user-attachments/assets/28ec574d-b4c5-4226-9935-5ded620ae046" />
 
 | # | Opportunité | Lien | Description |
 |---|-------------|------|-------------|
@@ -276,7 +283,8 @@ Ce document regroupe **plus de 1000 opportunités** : bourses, programmes d'éch
 | 189 | Bourse University of Stavanger | https://www.uis.no/ | Bourses internationales |
 | 190 | Bourse Western Norway University | https://www.hvl.no/ | Bourses pour étudiants étrangers |
 
-### 🇫🇮 Finlande
+### Finlande
+<img width="923" height="630" alt="17612918655970445573_1200x630" src="https://github.com/user-attachments/assets/b349a98b-33ce-449d-b06c-ee981f24a13c" />
 
 | # | Opportunité | Lien | Description |
 |---|-------------|------|-------------|
@@ -306,7 +314,8 @@ Ce document regroupe **plus de 1000 opportunités** : bourses, programmes d'éch
 | 209 | Bourse Roskilde University | https://www.ruc.dk/ | Bourses internationales |
 | 210 | Bourse VIA University College | https://en.via.dk/ | Bourses pour étudiants étrangers |
 
-### 🇮🇹 Italie
+### Italie
+<img width="1200" height="900" alt="italy-flag-1200x900" src="https://github.com/user-attachments/assets/dd0fab8f-4a18-42bb-9aef-6368349845db" />
 
 | # | Opportunité | Lien | Description |
 |---|-------------|------|-------------|
@@ -321,7 +330,8 @@ Ce document regroupe **plus de 1000 opportunités** : bourses, programmes d'éch
 | 219 | Bourse Università di Napoli | https://www.unina.it/ | Bourses internationales |
 | 220 | Bourse Università Cattolica del Sacro Cuore | https://www.unicatt.it/ | Bourses pour étudiants étrangers |
 
-### 🇪🇸 Espagne
+### Espagne
+<img width="1400" height="880" alt="eFnKmcROiPY6R6RhoLAWKJr2Kjw" src="https://github.com/user-attachments/assets/9b22cb0b-ef67-48d0-ab39-3678890927d4" />
 
 | # | Opportunité | Lien | Description |
 |---|-------------|------|-------------|
@@ -336,7 +346,8 @@ Ce document regroupe **plus de 1000 opportunités** : bourses, programmes d'éch
 | 229 | Bourse IE University | https://www.ie.edu/ | Bourses d'excellence |
 | 230 | Bourse ESADE Business School | https://www.esade.edu/ | Bourses MBA |
 
-### 🇵🇹 Portugal
+### Portugal
+<img width="1200" height="630" alt="fb46830b53dee0ffdaff150787a7f3-9da08" src="https://github.com/user-attachments/assets/a7fd60d3-1937-4347-be52-c4c61f94eb36" />
 
 | # | Opportunité | Lien | Description |
 |---|-------------|------|-------------|
@@ -351,7 +362,8 @@ Ce document regroupe **plus de 1000 opportunités** : bourses, programmes d'éch
 | 239 | Bourse Católica Lisbon | https://www.ucp.pt/ | Bourses internationales |
 | 240 | Bourse Nova SBE | https://www.novasbe.unl.pt/ | Bourses MBA |
 
-### 🇦🇺 Australie
+### Australie
+<img width="1366" height="768" alt="vivere_in_australia_guida_agenzia_immigrazione_atlas_migration jpg" src="https://github.com/user-attachments/assets/a2b41f1f-7db6-4c64-a83c-3239dca3f05f" />
 
 | # | Opportunité | Lien | Description |
 |---|-------------|------|-------------|
@@ -381,7 +393,8 @@ Ce document regroupe **plus de 1000 opportunités** : bourses, programmes d'éch
 | 259 | Bourse Hokkaido University | https://www.global.hokudai.ac.jp/ | Bourses pour étudiants étrangers |
 | 260 | Bourse Waseda University | https://www.waseda.jp/ | Bourses internationales |
 
-### 🇰🇷 Corée du Sud
+### Corée du Sud
+<img width="612" height="344" alt="istockphoto-1069600690-612x612" src="https://github.com/user-attachments/assets/a77e45ff-a417-4bbf-96a0-a8cef02d40ec" />
 
 | # | Opportunité | Lien | Description |
 |---|-------------|------|-------------|
@@ -411,7 +424,8 @@ Ce document regroupe **plus de 1000 opportunités** : bourses, programmes d'éch
 | 279 | Bourse University of Science and Technology of China | https://www.ustc.edu.cn/ | Bourses pour étudiants étrangers |
 | 280 | Bourse Wuhan University | https://www.whu.edu.cn/ | Bourses internationales |
 
-### 🇹🇷 Turquie
+### Turquie
+<img width="612" height="408" alt="turquie integrer vivre" src="https://github.com/user-attachments/assets/7ac53e6e-f200-4caa-8978-22e9782b01c1" />
 
 | # | Opportunité | Lien | Description |
 |---|-------------|------|-------------|
@@ -426,7 +440,8 @@ Ce document regroupe **plus de 1000 opportunités** : bourses, programmes d'éch
 | 289 | Bourse Boğaziçi University | https://www.boun.edu.tr/ | Bourses internationales |
 | 290 | Bourse İhsan Doğramacı Bilkent | https://www.bilkent.edu.tr/ | Bourses d'excellence |
 
-### 🇲🇦 Maroc
+### Maroc
+<img width="1200" height="600" alt="Classements-mondiaux-Maroc" src="https://github.com/user-attachments/assets/eaffc118-6a16-4f02-80c0-408423ed5896" />
 
 | # | Opportunité | Lien | Description |
 |---|-------------|------|-------------|
@@ -441,7 +456,8 @@ Ce document regroupe **plus de 1000 opportunités** : bourses, programmes d'éch
 | 299 | Université Abdelmalek Essaâdi | https://www.uae.ac.ma/ | Bourses pour étudiants étrangers |
 | 300 | Université Chouaib Doukkali | https://www.ucd.ac.ma/ | Bourses internationales |
 
-### 🇹🇳 Tunisie
+### Tunisie
+<img width="1280" height="720" alt="73ae07a287bd6bfb88311fcb293999ad9d33f1ed" src="https://github.com/user-attachments/assets/0608318c-60c5-412e-b101-9dd973161411" />
 
 | # | Opportunité | Lien | Description |
 |---|-------------|------|-------------|
@@ -456,7 +472,8 @@ Ce document regroupe **plus de 1000 opportunités** : bourses, programmes d'éch
 | 309 | Université de la Manouba | http://www.uma.rnu.tn/ | Bourses internationales |
 | 310 | Université de Jendouba | http://www.uj.rnu.tn/ | Bourses pour étudiants étrangers |
 
-### 🇸🇳 Sénégal
+### Sénégal
+<img width="1920" height="1280" alt="drapeau-senegal" src="https://github.com/user-attachments/assets/a7724591-0863-411d-9ef3-cebb6175fbc8" />
 
 | # | Opportunité | Lien | Description |
 |---|-------------|------|-------------|
@@ -471,7 +488,8 @@ Ce document regroupe **plus de 1000 opportunités** : bourses, programmes d'éch
 | 319 | Sup'Info | https://www.supinfo.sn/ | École informatique |
 | 320 | ESP Dakar | https://www.esp.sn/ | École supérieure polytechnique |
 
-### 🇨🇮 Côte d'Ivoire
+### Côte d'Ivoire
+<img width="900" height="668" alt="Car-Rental-in-Ivory-Coast-Find-Your-Car-Here-for-a-Hassle-Free-Journey" src="https://github.com/user-attachments/assets/e2ab3761-5988-4307-811b-dc99debbd21e" />
 
 | # | Opportunité | Lien | Description |
 |---|-------------|------|-------------|
@@ -486,7 +504,8 @@ Ce document regroupe **plus de 1000 opportunités** : bourses, programmes d'éch
 | 329 | Institut National Polytechnique | https://www.inphb.ci/ | Bourses d'excellence |
 | 330 | Centre d'Excellence Africain | https://www.anac.ci/ | Bourses régionales |
 
-### 🇨🇲 Cameroun
+### Cameroun
+<img width="1024" height="757" alt="IMG_0245-1-scaled-e1783962644729-1024x757" src="https://github.com/user-attachments/assets/e90c8ce2-b00c-47ff-97f6-ff378c553e9f" />
 
 | # | Opportunité | Lien | Description |
 |---|-------------|------|-------------|
@@ -501,7 +520,8 @@ Ce document regroupe **plus de 1000 opportunités** : bourses, programmes d'éch
 | 339 | Polytechnique Yaoundé | https://www.polytechnique.cm/ | École d'ingénieurs |
 | 340 | African Institute for Mathematical Sciences Cameroon | https://cameroon.aims-next Einstein.org/ | Bourses maths |
 
-### 🇷🇺 Russie
+### Russie
+
 
 | # | Opportunité | Lien | Description |
 |---|-------------|------|-------------|
@@ -516,7 +536,8 @@ Ce document regroupe **plus de 1000 opportunités** : bourses, programmes d'éch
 | 349 | Institut de physique et de technologie de Moscou | https://mipt.ru/ | Bourses d'excellence scientifique |
 | 350 | Université d'État de Tomsk | https://en.tsu.ru/ | Bourses internationales |
 
-### 🇮🇳 Inde
+### Inde
+<img width="960" height="540" alt="image-11" src="https://github.com/user-attachments/assets/d7be47a2-780c-41cd-bbee-9a6063044205" />
 
 | # | Opportunité | Lien | Description |
 |---|-------------|------|-------------|
@@ -531,7 +552,8 @@ Ce document regroupe **plus de 1000 opportunités** : bourses, programmes d'éch
 | 359 | Banaras Hindu University | https://www.bhu.ac.in/ | Bourses internationales |
 | 360 | University of Hyderabad | https://uohyd.ac.in/ | Bourses pour étudiants étrangers |
 
-### 🇧🇷 Brésil
+### Brésil
+<img width="1200" height="800" alt="fort-leme-copacabana-bresil-8" src="https://github.com/user-attachments/assets/f20e005e-50de-4013-abf8-970d7635954c" />
 
 | # | Opportunité | Lien | Description |
 |---|-------------|------|-------------|
@@ -549,6 +571,8 @@ Ce document regroupe **plus de 1000 opportunités** : bourses, programmes d'éch
 ---
 
 ## 🌐 Bases de données de bourses mondiales
+<img width="1795" height="1109" alt="2018155651_1539784109-terminal-2e-cdg" src="https://github.com/user-attachments/assets/770feb8b-03a3-4560-b4a6-46d8d38a7e49" />
+
 
 | # | Plateforme | Lien | Description |
 |---|------------|------|-------------|
@@ -586,6 +610,7 @@ Ce document regroupe **plus de 1000 opportunités** : bourses, programmes d'éch
 ---
 
 ## ✈️ Programmes d'échange et mobilité
+<img width="1920" height="1080" alt="csm_Etudiants-Erasmus_6726000bac" src="https://github.com/user-attachments/assets/1cf70408-958c-4e28-83ef-7478896212a0" />
 
 | # | Programme | Lien | Description |
 |---|-----------|------|-------------|
@@ -613,6 +638,7 @@ Ce document regroupe **plus de 1000 opportunités** : bourses, programmes d'éch
 ---
 
 ## 💼 Opportunités de travail à l'étranger
+<img width="1080" height="675" alt="415_comment-trouver-un-travail-a-letranger-les-etapes-pour-postuler-avec-succes-1-1080x675" src="https://github.com/user-attachments/assets/6b4f9706-0030-4791-9c03-6f0f8f86b3cf" />
 
 ### Visas vacances-travail et travail à l'étranger
 
@@ -640,6 +666,7 @@ Ce document regroupe **plus de 1000 opportunités** : bourses, programmes d'éch
 | 440 | Visa travail Portugal | https://www.sef.pt/ | Immigration Portugal |
 
 ### Plateformes de recrutement international
+<img width="2240" height="1260" alt="Banner_Designs_(1)2" src="https://github.com/user-attachments/assets/3519be36-1ddf-45df-922a-ab8c0a939681" />
 
 | # | Plateforme | Lien | Description |
 |---|------------|------|-------------|
@@ -677,6 +704,7 @@ Ce document regroupe **plus de 1000 opportunités** : bourses, programmes d'éch
 ---
 
 ## 🛂 Visas, tests linguistiques et démarches
+<img width="915" height="517" alt="Les-tests-de-langue-officiels-915x517" src="https://github.com/user-attachments/assets/bc5bd471-9344-4772-9641-4a1e09ae99ee" />
 
 ### Tests de langue
 
@@ -704,6 +732,7 @@ Ce document regroupe **plus de 1000 opportunités** : bourses, programmes d'éch
 | 490 | LanguageCert | https://www.languagecert.org/ | Certifications linguistiques |
 
 ### Aide aux démarches administratives
+<img width="1280" height="882" alt="la-mairie-de-paris-propose-un-accompagnement-pour-la-realisation-des-demarches-administratives-en-ligne-1" src="https://github.com/user-attachments/assets/e8e34c01-56fa-42c0-aea3-b1ec8fb573d6" />
 
 | # | Ressource | Lien | Description |
 |---|-----------|------|-------------|
@@ -721,6 +750,7 @@ Ce document regroupe **plus de 1000 opportunités** : bourses, programmes d'éch
 ---
 
 ## 🌍 Opportunités en Afrique et dans la francophonie
+<img width="800" height="445" alt="APM-Terminals-Monrovia-©DR-800x445" src="https://github.com/user-attachments/assets/8e45ef9b-71d4-4343-b69b-6a5fdfcdfda4" />
 
 | # | Opportunité | Lien | Description |
 |---|-------------|------|-------------|
@@ -768,6 +798,7 @@ Ce document regroupe **plus de 1000 opportunités** : bourses, programmes d'éch
 ---
 
 ## 💻 Technologie, informatique et cybersécurité à l'international
+<img width="1024" height="499" alt="AdobeStock_161904586-1024x499" src="https://github.com/user-attachments/assets/ddf99466-c8ed-403f-b4b7-3f27e017fba8" />
 
 | # | Opportunité | Lien | Description |
 |---|-------------|------|-------------|
@@ -815,6 +846,7 @@ Ce document regroupe **plus de 1000 opportunités** : bourses, programmes d'éch
 ---
 
 ## 🌐 Organisations internationales et ONG
+<img width="1387" height="924" alt="Geneva_shutterstock" src="https://github.com/user-attachments/assets/fe01a084-0f23-49e2-8b46-ee64eb64c61a" />
 
 | # | Organisation | Lien | Description |
 |---|--------------|------|-------------|
@@ -842,6 +874,7 @@ Ce document regroupe **plus de 1000 opportunités** : bourses, programmes d'éch
 ---
 
 ## 📝 Conseils pour postuler et réussir
+<img width="767" height="575" alt="job-application-work-germany-tipps" src="https://github.com/user-attachments/assets/bdaeab9b-b1dd-4f2a-95f7-9015d982052e" />
 
 ### Étapes clés pour réussir une candidature internationale
 
@@ -880,7 +913,9 @@ Nous encourageons les tchadiens de la diaspora à devenir mentors et à guider l
 
 ---
 
-TEL:+23565628035
+TEL:
+<img width="1248" height="832" alt="OIG3 (7)" src="https://github.com/user-attachments/assets/05c18f8a-d7c1-4b07-aa41-4f6859041514" />
+
 
 Ce document est fourni à titre informatif et éducatif. Les liens et opportunités peuvent évoluer. Vérifiez toujours les informations sur les sites officiels avant de postuler. Méfiez-vous des arnaques et des intermédiaires qui demandent de l'argent pour obtenir une bourse.
 
