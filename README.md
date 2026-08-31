@@ -380,7 +380,9 @@ Ce document regroupe **plus de 1000 opportunités** : bourses, programmes d'éch
 | 249 | Bourse University of Western Australia | https://www.uwa.edu.au/ | Bourses pour étudiants étrangers |
 | 250 | Bourse University of Adelaide | https://www.adelaide.edu.au/ | Bourses internationales |
 
-### 🇯🇵 Japon
+### Japon
+<img width="740" height="493" alt="drapeau-du-japon-agitant_1498-9" src="https://github.com/user-attachments/assets/3f6cf914-aff7-45ac-b945-d6f59b9bf51a" />
+
 
 | # | Opportunité | Lien | Description |
 |---|-------------|------|-------------|
