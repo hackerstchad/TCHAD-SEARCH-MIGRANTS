@@ -1,4 +1,4 @@
-<img width="1248" height="832" alt="OIG3 k4ZjMSLp1674id0lU" src="https://github.com/user-attachments/assets/9fec4a44-e9c5-4146-be68-e1ef9f156ade" />TCHAD-SEARCH-MIGRANTS
+TCHAD-SEARCH-MIGRANTS
 
 <img width="1248" height="832" alt="OIG4 (11)" src="https://github.com/user-attachments/assets/140b1a54-be85-4f04-bd74-bc9589bcf90e" />
 
