@@ -32,7 +32,8 @@ Ce document regroupe **plus de 1000 opportunités** : bourses, programmes d'éch
 
 ## 🌍 Bourses et programmes d'études par pays
 
-### 🇫🇷 France
+### France
+<img width="1000" height="668" alt="shutterstock-648742303" src="https://github.com/user-attachments/assets/8765ef23-c422-4bb0-b913-90759939cb46" />
 
 | # | Opportunité | Lien | Description |
 |---|-------------|------|-------------|
@@ -77,7 +78,9 @@ Ce document regroupe **plus de 1000 opportunités** : bourses, programmes d'éch
 | 39 | Bourse Sorbonne Université | https://www.sorbonne-universite.fr/ | Bourses internationales |
 | 40 | Bourse Université Paris Cité | https://u-paris.fr/ | Bourses pour étudiants étrangers |
 
-### 🇨🇦 Canada
+### Canada
+<img width="1024" height="682" alt="57742514-42743175" src="https://github.com/user-attachments/assets/39c2da44-ee10-4507-8345-1f93789ac7ae" />
+
 
 | # | Opportunité | Lien | Description |
 |---|-------------|------|-------------|
@@ -112,7 +115,8 @@ Ce document regroupe **plus de 1000 opportunités** : bourses, programmes d'éch
 | 69 | Bourse Killam Trusts | https://killamtrusts.ca/ | Bourses canadiennes prestigieuses |
 | 70 | Bourse NSERC | https://www.nserc-crsng.gc.ca/ | Recherche scientifique Canada |
 
-### 🇺🇸 États-Unis
+### États-Unis
+<img width="1024" height="639" alt="AdobeStock_238035886-1024x639" src="https://github.com/user-attachments/assets/3be45958-b1aa-445a-8580-aacce11766ab" />
 
 | # | Opportunité | Lien | Description |
 |---|-------------|------|-------------|
