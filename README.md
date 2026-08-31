@@ -204,7 +204,8 @@ Ce document regroupe **plus de 1000 opportunités** : bourses, programmes d'éch
 | 139 | Bourse University of Southampton | https://www.southampton.ac.uk/ | Bourses internationales |
 | 140 | Bourse University of Nottingham | https://www.nottingham.ac.uk/ | Bourses pour étudiants étrangers |
 
-### 🇧🇪 Belgique
+### Belgique
+<img width="740" height="506" alt="drapeau-belgique_1092848-5777" src="https://github.com/user-attachments/assets/7238e649-53ec-45dc-84f6-7f4bc73458a2" />
 
 | # | Opportunité | Lien | Description |
 |---|-------------|------|-------------|
@@ -409,7 +410,8 @@ Ce document regroupe **plus de 1000 opportunités** : bourses, programmes d'éch
 | 269 | Bourse Hanyang University | https://www.hanyang.ac.kr/ | Bourses pour étudiants étrangers |
 | 270 | Bourse Kyung Hee University | https://www.khu.ac.kr/ | Bourses internationales |
 
-### 🇨🇳 Chine
+### Chine
+<img width="860" height="645" alt="photo-1718928516680-fd5f1f38bbbc" src="https://github.com/user-attachments/assets/e0084f14-4205-4ec9-8816-6dc1a352e67b" />
 
 | # | Opportunité | Lien | Description |
 |---|-------------|------|-------------|
@@ -521,6 +523,7 @@ Ce document regroupe **plus de 1000 opportunités** : bourses, programmes d'éch
 | 340 | African Institute for Mathematical Sciences Cameroon | https://cameroon.aims-next Einstein.org/ | Bourses maths |
 
 ### Russie
+<img width="625" height="350" alt="41043655-ai-genere-foule-de-gens-avec-russe-drapeaux-dans-le-ville-russie-photo" src="https://github.com/user-attachments/assets/e19d3d0a-ce20-4dd7-ac76-14ea48184f22" />
 
 
 | # | Opportunité | Lien | Description |
