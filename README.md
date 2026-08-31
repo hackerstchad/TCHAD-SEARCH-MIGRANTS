@@ -300,7 +300,8 @@ Ce document regroupe **plus de 1000 opportunités** : bourses, programmes d'éch
 | 199 | Bourse University of Eastern Finland | https://www.uef.fi/ | Bourses internationales |
 | 200 | Bourse Hanken School of Economics | https://www.hanken.fi/ | Bourses pour étudiants étrangers |
 
-### 🇩🇰 Danemark
+### Danemark
+<img width="520" height="360" alt="360_F_58438217_jcilN6NWZ5mJjgHJdSyBl9uBFfYSGtFq" src="https://github.com/user-attachments/assets/3da1d271-7a6b-46ec-a62a-d9a4e14ac328" />
 
 | # | Opportunité | Lien | Description |
 |---|-------------|------|-------------|
